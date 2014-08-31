@@ -1,0 +1,10 @@
+Package: com.whited00r.videoPlayer
+Name: VideoPlayer
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome library of some sort!!
+Maintainer: LSKennedy
+Author: LSKennedy
+Section: System
+Tag: role::developer
